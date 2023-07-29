@@ -235,4 +235,16 @@ footer p{
         flex-direction: row;
         justify-content: space-between;
     }
+
+    footer .social-media{
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer .contact{
+        margin-bottom: 130px;
+    }
+
+    footer .contact ul{
+        list-style-type: none;
 }
