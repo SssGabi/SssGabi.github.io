@@ -210,6 +210,16 @@ footer .contact ul{
         width: 650px;
     }
 
+    #elegirnos ul{
+        list-style-type: none;
+        padding: 25px;
+        font-size: 20px;
+    }
+
+    #elegirnos ul li{
+        padding: 20px;
+    }
+
     #propuesta .propuestas{
         display: flex;
         justify-content: center;
